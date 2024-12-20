@@ -99,7 +99,6 @@ Armed with these statistical findings, I examined historical context and Earthly
       <p style="margin: 5px 0;">
       <strong style="margin-bottom: 5px; display: block;">-African Americans:</strong>
       Once marginalized, their representation improved after the 1960s. Civil rights movements and influential African American directors served as new stars, lighting the cinematic sky with more inclusive brilliance.
-
       </p>
     </div>
     <!-- Right Block -->
