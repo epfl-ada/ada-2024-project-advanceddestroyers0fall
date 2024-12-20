@@ -65,43 +65,75 @@ To move beyond my mere cosmic impressions, I employed the chi-square test, a hum
 
 Armed with these statistical findings, I examined historical context and Earthly narratives to understand the patterns:
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  
-  <!-- Text Container -->
-  <div style="width: 35%; padding: 10px;">
-    <p>
-
-
-- **Jewish Populations:**  
-  Overrepresented in early decades, mirroring the historical influence of Jewish entrepreneurs who helped shape Hollywood’s initial star cluster. Over time, while still significant, this dominance receded as the industry’s nebula grew more diverse.
-
-- **American Indians:**  
-  Initially underrepresented, they became more visible in certain genres, like Documentaries, post-1960. Perhaps a reflection of growing Earthly interest in acknowledging indigenous histories.
-
-- **African Americans:**  
-  Once marginalized, their representation improved after the 1960s. Civil rights movements and influential African American directors served as new stars, lighting the cinematic sky with more inclusive brilliance.
-
-- **Asian Americans:**  
-  Their representation remained low but featured occasional spikes, often tied to sudden trends (martial arts, for example) rather than steady growth. It’s a pattern of intermittent flares rather than a stable constellation.
-
-- **Arab and Latino Americans:**  
-  Persistently underrepresented, these groups struggle against entrenched biases and stereotypes. Despite minor improvements, the gravitational pull of old assumptions seems hard to escape.
-
-- **Caucasians:**  
-  Historically dominant, their relative share diminishes only as others brighten. Even this “reduction” is more about rebalancing the cosmic stage than any actual decline to minority status.
-    </p>
+<div style="margin-top: 20px;">
+  <div class="flourish-embed flourish-chart" data-src="visualisation/20790816">
+    <script src="https://public.flourish.studio/resources/embed.js"></script>
+    <noscript><img src="https://public.flourish.studio/visualisation/20790816/thumbnail" width="100%" alt="chart visualization"/></noscript>
   </div>
-  
-  <!-- Plot Container -->
-  <div style="width: 65%; padding: 10px;">
-    <div class="flourish-embed flourish-chart" data-src="visualisation/20790816"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/20790816/thumbnail" width="100%" alt="chart visualization" /></noscript></div>
+</div>
+
+<div style="display: flex; flex-direction: column; gap: 20px;">
+
+  <!-- Upper Div -->
+  <div style="display: flex; justify-content: space-between; gap: 20px; margin: 0; padding: 0;">
+    <!-- Left Block -->
+    <div style="flex: 1; padding: 10px; min-width: 45%;">
+      <p style="margin: 5px 0; padding: 0;">
+      <strong style="margin-bottom: 3px; display: block;">- Jewish Populations:</strong>
+      Overrepresented in early decades, mirroring the historical influence of Jewish entrepreneurs who helped shape Hollywood’s initial star cluster. Over time, while still significant, this dominance receded as the industry’s nebula grew more diverse.
+      </p>
+    </div>
+    <!-- Right Block -->
+    <div style="flex: 1; padding: 10px; min-width: 45%;">
+      <p style="margin: 5px 0;">
+      <strong style="margin-bottom: 5px; display: block;">-American Indians:</strong> 
+      Initially underrepresented, they became more visible in certain genres, like Documentaries, post-1960. Perhaps a reflection of growing Earthly interest in acknowledging indigenous histories.
+      </p>
+    </div>
+  </div>
+
+  <!-- Middle Div -->
+  <div style="display: flex; justify-content: space-between; gap: 20px;">
+    <!-- Left Block -->
+    <div style="flex: 1; padding: 10px; min-width: 45%;">
+      <p style="margin: 5px 0;">
+      <strong style="margin-bottom: 5px; display: block;">-African Americans:</strong>
+      Once marginalized, their representation improved after the 1960s. Civil rights movements and influential African American directors served as new stars, lighting the cinematic sky with more inclusive brilliance.
+
+      </p>
+    </div>
+    <!-- Right Block -->
+    <div style="flex: 1; padding: 10px; min-width: 45%;">
+      <p style="margin: 5px 0;">
+      <strong style="margin-bottom: 5px; display: block;">-Asian Americans:</strong>
+      Their representation remained low but featured occasional spikes, often tied to sudden trends (martial arts, for example) rather than steady growth. It’s a pattern of intermittent flares rather than a stable constellation.
+      </p>
+    </div>
+  </div>
+
+  <!-- Lower Div -->
+  <div style="display: flex; justify-content: space-between; gap: 20px;">
+    <!-- Left Block -->
+    <div style="flex: 1; padding: 10px; min-width: 45%;">
+      <p style="margin: 5px 0;">
+      <strong style="margin-bottom: 5px; display: block;">-Arab and Latino Americans:</strong>  
+      Persistently underrepresented, these groups struggle against entrenched biases and stereotypes. Despite minor improvements, the gravitational pull of old assumptions seems hard to escape.
+      </p>
+    </div>
+    <!-- Right Block -->
+    <div style="flex: 1; padding: 10px; min-width: 45%;">
+      <p style="margin: 5px 0;">
+      <strong style="margin-bottom: 5px; display: block;">-Caucasians:</strong>
+      Historically dominant, their relative share diminishes only as others brighten. Even this “reduction” is more about rebalancing the cosmic stage than any actual decline to minority status.
+      </p>
+    </div>
   </div>
 
 </div>
 
-
+<p>
 In essence, these ethnicity patterns reflect Earth’s layered histories, sociopolitical shifts, and the market forces that shape Hollywood’s star system. The extremely low p-values confirm we’re not dealing with random cosmic dust here—these are deliberate cosmic alignments and misalignments.
-
+</p>
 ---
 
 # **Age Analysis of the Hollywood Movie Industry**
