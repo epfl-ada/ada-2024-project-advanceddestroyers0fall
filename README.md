@@ -36,7 +36,7 @@ The website’s design features a space-themed color palette, blending alien gre
 
 # **About our website**
 
-Check out our interactive website: [https://blog-p3.vercel.app](https://blog-p3.vercel.app)
+Check out our interactive website: [https://blog-p3.vercel.app](https://ad-awebsite.vercel.app/)
 
 The site allows readers to follow Ada's journey by **exploring each region** through an interactive map. As you navigate, you'll receive prompts to move to the next region. There are four regions to explore, each offering unique insights. 
 
